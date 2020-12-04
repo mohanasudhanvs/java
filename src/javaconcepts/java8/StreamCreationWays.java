@@ -1,4 +1,4 @@
-package javaconcepts;
+package javaconcepts.java8;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,9 +7,9 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class Demo {
+public class StreamCreationWays {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 
 		// ways of creating a stream
 
